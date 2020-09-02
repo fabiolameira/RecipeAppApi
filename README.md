@@ -1,2 +1,2 @@
 # RecipeAppApi
-Source code for my RecipeAppApi
+My Recipe App API source code.
